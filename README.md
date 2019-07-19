@@ -15,7 +15,6 @@ FreePLC是一款基于Beremiz的开放式中小型PLC方案，主要针对以下
 
 1.PLC编译环境：FreePLC IDE，由python编写，提供IEC61131多种语言开发环境
 2.PLC硬件模块：主芯片基于NXP KV44系列，硬件模块提供参考原理及PCB文件，固件分为3个部分
-
 (1). FreePLC_Bootloader(开源)
 (2). FreePLC_Rts(固化到芯片)
 (3). FreePLC_UserCustome(开源)
